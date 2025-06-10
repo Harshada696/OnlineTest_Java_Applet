@@ -42,14 +42,10 @@ Compile the project
 On terminal (make sure you are in the project directory):
 
 bash
-Copy
-Edit
 javac *.java
 Run the app
 
 bash
-Copy
-Edit
 java OnlineTest
 🧠 How It Works
 The main frame lets the user select one of four tests.
@@ -67,9 +63,7 @@ Bookmark a question for review
 Submit and see results immediately
 
 🗂️ Project Structure
-bash
-Copy
-Edit
+```
 OnlineTest_Java_Applet/
 ├── OnlineTest.java       # Main UI
 ├── HTMLTest.java         # HTML quiz
@@ -78,6 +72,7 @@ OnlineTest_Java_Applet/
 ├── CSSTest.java          # CSS quiz (stubbed)
 ├── images.png            # UI image asset
 ├── README.md             # Project documentation
+```
 🛠️ Technologies Used
 Java (Swing + AWT)
 
